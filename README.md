@@ -5,9 +5,12 @@ Advanced Task Manager is a program similar to Task Manager integrated with Windo
 Introduction
 All people who are working on any version of the Windows operating system know about Task Manager. They might be using it very frequently to start, end or manage processes. Task Manager has been around for a long time and is commonly used in our daily work. However, it is still lacking some features which might be useful in certain situations. So, I designed this application to provide features which are not present in the built-in Windows Task Manager. This application was created in VS.NET 2003 using C# and Windows Forms.
 
+![AdvancedTaskMgr32](https://user-images.githubusercontent.com/72635460/132960418-c90068b9-87b8-4dd5-afd1-4a2305975408.PNG)
+
 In this article, I will first explain some features present in the application, and then I will discuss its design and coding.
 
 Task Manager features
+
 This application...
 
 Displays all processes running in your system
